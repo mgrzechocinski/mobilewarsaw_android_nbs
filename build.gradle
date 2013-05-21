@@ -11,4 +11,14 @@ apply plugin: 'android'
 android {
     compileSdkVersion 17
     buildToolsVersion "17.0.0"
+
+  /*  buildTypes{
+        alpha{}
+    }*/
+   /*
+    productFlavors{
+        flavor1{}
+        flavor2{}
+    }
+   */
 }
